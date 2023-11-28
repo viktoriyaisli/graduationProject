@@ -1,9 +1,22 @@
-.logo{
-    width: 100px;
-    height: 100px;
-    border-radius: 100%;
-
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
 }
-.slider-img{
-    height: 20%;
+.footer-design {
+  text-decoration: none;
+}
+.bi {
+  font-size: 28px;
+  justify-content: center;
+  display: flex;
+}
+.footer-text {
+  font-size: 16px;
+  color: #6b6a6a;
+  margin-left: 5px;
+  font-style: normal;
+}
+.footer-row{
+    margin: 120px 0px 20px 20px;
 }
