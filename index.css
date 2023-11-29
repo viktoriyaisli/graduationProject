@@ -17,6 +17,9 @@
   margin-left: 5px;
   font-style: normal;
 }
+.footer-text:hover{
+  font-weight: 600;
+}
 .footer-row{
     margin: 120px 0px 20px 20px;
 }
@@ -25,4 +28,13 @@
 }
 .nav-link:hover{
   background-color: rgb(189, 189, 189,0.5)
+}
+.follow-us{
+  font-size: 16px;
+  color: #494949;
+  font-weight: 600;
+}
+.social-media-icon:hover{
+  padding:1px;
+  color: #494949;
 }
