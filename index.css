@@ -17,34 +17,49 @@
   margin-left: 5px;
   font-style: normal;
 }
-.footer-text:hover{
+.footer-text:hover {
   font-weight: 600;
 }
-.footer-row{
-    margin: 120px 0px 20px 20px;
+.footer-row {
+  margin: 120px 0px 20px 20px;
 }
-.dropdown-item:hover{
-  background-color: rgb(189, 189, 189,0.5)
+.dropdown-item:hover {
+  background-color: rgb(189, 189, 189, 0.5);
 }
-.nav-link:hover{
-  background-color: rgb(189, 189, 189,0.5)
+.nav-link:hover {
+  background-color: rgb(189, 189, 189, 0.5);
 }
-.follow-us{
+.follow-us {
   font-size: 16px;
   color: #494949;
   font-weight: 600;
 }
-.social-media-icon:hover{
-  padding:1px;
+.social-media-icon:hover {
+  padding: 1px;
   color: #494949;
 }
 
-.accordion2{
-  background-color: #e2e3e5;
+.text-news {
+  background-color: rgb(197, 255, 248);
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-.text-news{
- background-color:#cff4fc;
+.support{
+  border-radius: 18px;
+  border: 1px solid #d8d7d7;
+  box-shadow:rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+.bi-chat-left-dots{
+  font-size: 16px;
+}
+.support1{
+padding: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 0px;
+font-weight: 600;
+font-size: 16px;
 
- border-radius: 5px;
- box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
