@@ -38,3 +38,13 @@
   padding:1px;
   color: #494949;
 }
+
+.accordion2{
+  background-color: #e2e3e5;
+}
+.text-news{
+ background-color:#cff4fc;
+
+ border-radius: 5px;
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
