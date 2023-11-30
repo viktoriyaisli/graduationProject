@@ -3,13 +3,9 @@
   height: 100px;
   border-radius: 100%;
 }
-.footer-design {
-  text-decoration: none;
-}
+
 .bi {
   font-size: 28px;
-  justify-content: center;
-  display: flex;
 }
 .footer-text {
   font-size: 16px;
@@ -20,9 +16,7 @@
 .footer-text:hover {
   font-weight: 600;
 }
-.footer-row {
-  margin: 120px 0px 20px 20px;
-}
+
 .dropdown-item:hover {
   background-color: rgb(189, 189, 189, 0.5);
 }
@@ -45,21 +39,22 @@
   border-radius: 8px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-.support{
+.support {
   border-radius: 18px;
   border: 1px solid #d8d7d7;
-  box-shadow:rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
 }
-.bi-chat-left-dots{
+.bi-chat-left-dots {
   font-size: 16px;
 }
-.support1{
-padding: 5px;
-display: flex;
-justify-content: center;
-align-items: center;
-margin-bottom: 0px;
-font-weight: 600;
-font-size: 16px;
-
+.support1 {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0px;
+  font-weight: 600;
+  font-size: 16px;
 }
